@@ -1,0 +1,358 @@
+.desktopRoot {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  height: 3579px;
+  background-color: #ffffff;
+  overflow: hidden;
+  position: relative;
+  margin: auto;
+  min-width: 1440px;
+}
+.timberwolfRectangle {
+  width: 1440px;
+  height: 2573px;
+  background-color: #d9d9d9;
+  position: absolute;
+}
+.background {
+  height: 3579px;
+  background-image: url("https://file.rendit.io/n/ZvcZdv4ZtxEPmlizQZxt.png");
+  background-size: cover;
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.vishnu {
+  width: 1422px;
+  height: 79.6px;
+  background-image: url("https://file.rendit.io/n/GzNxn40i7n7XrmFd8JN9.png");
+  background-size: cover;
+  align-self: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 905px;
+  align-items: center;
+  padding: 23px 9px 921.4px 9px;
+  margin: 0px 0px 34.31px 0px;
+}
+.image2 {
+  width: 264px;
+  height: 79.6px;
+}
+.flexRow {
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  backdrop-filter: blur(4px);
+  width: 214px;
+  background-image: linear-gradient(
+    94deg,
+    rgba(83, 46, 98, 0.5) 0%,
+    rgba(83, 46, 98, 0) 134%
+  );
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 95px;
+  padding: 17px 0px;
+}
+.image3 {
+  width: 142.91px;
+  height: 92.65px;
+  align-self: center;
+  margin: 0px 0px 24.04px 0px;
+}
+.element1 {
+  height: 172px;
+  position: relative;
+  min-width: 1440px;
+  margin: 0px 0px 75px 0px;
+}
+.text2 {
+  font-size: 60px;
+  font-family: League Spartan;
+  font-weight: 700;
+  color: #feb700;
+  position: absolute;
+  top: 7px;
+  left: 66px;
+}
+.image4 {
+  width: 2px;
+  height: 141.5px;
+  position: absolute;
+  left: 721px;
+}
+.text5 {
+  height: 117px;
+  font-size: 32px;
+  font-family: League Spartan;
+  font-weight: 500;
+  color: #ffffff;
+  position: absolute;
+  top: 7px;
+  left: 778px;
+}
+.element2 {
+  height: 1252.16px;
+  position: relative;
+  min-width: 1440px;
+  margin: 0px 0px 17.84px 0px;
+}
+.flexRow1 {
+  border-width: 1px;
+  border-color: #ffffff;
+  border-style: solid;
+  backdrop-filter: blur(4px);
+  width: 214px;
+  background-image: linear-gradient(
+    94deg,
+    rgba(83, 46, 98, 0.5) 0%,
+    rgba(83, 46, 98, 0) 134%
+  );
+  display: flex;
+  position: absolute;
+  top: 105px;
+  left: 1176px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 95px;
+  padding: 17px 0px;
+}
+.text7 {
+  height: 192px;
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 600;
+  color: #feb700;
+  position: absolute;
+  top: 146px;
+  left: 55px;
+}
+.paragraph2 {
+  height: 303px;
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 400;
+  color: #ffffff;
+  position: absolute;
+  top: 666px;
+  left: 774px;
+  white-space: pre-wrap;
+}
+.text8 {
+  font-size: 48px;
+  font-family: League Spartan;
+  font-weight: 600;
+  color: #feb700;
+  display: contents;
+}
+.sbgChShartsm {
+  width: 653px;
+  height: 475px;
+  position: absolute;
+  left: 737px;
+}
+.image1 {
+  width: 653px;
+  height: 475px;
+  position: absolute;
+  top: 532px;
+  left: 53px;
+}
+.collectgetaccess {
+  text-align: right;
+  width: 637px;
+  font-size: 48px;
+  font-family: Manrope;
+  color: #ffffff;
+  position: absolute;
+  top: 403px;
+  left: 704px;
+}
+.metaashramaccess {
+  width: 637px;
+  font-size: 48px;
+  font-family: Manrope;
+  color: #ffffff;
+  position: absolute;
+  top: 944px;
+  left: 122px;
+}
+.text9 {
+  font-size: 60px;
+  font-family: League Spartan;
+  font-weight: 500;
+  color: #ffffff;
+  position: absolute;
+  top: 1130px;
+  left: 1012px;
+}
+.arrow {
+  width: 188.32px;
+  height: 188.32px;
+  position: absolute;
+  top: 1063.84px;
+  left: 1234.84px;
+}
+.arrow1 {
+  width: 188.32px;
+  height: 188.32px;
+  position: absolute;
+  top: 961.84px;
+  left: 258.84px;
+}
+.arrow2 {
+  width: 30.87px;
+  height: 30.87px;
+  position: absolute;
+  top: 499.56px;
+  left: 1348.56px;
+}
+.image5 {
+  width: 891.5px;
+  height: 2px;
+  position: absolute;
+  top: 1171px;
+  left: 85px;
+}
+.flexRow2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 46px;
+  margin: 0px 0px 46px 0px;
+}
+.s1 {
+  width: 52.1px;
+  height: 55px;
+  position: relative;
+  margin: 0px 25.9px 0px 0px;
+}
+.sbgChShartsm1 {
+  width: 316px;
+  height: 429px;
+  align-self: flex-end;
+  margin: 0px 112px 7px 0px;
+}
+.sbgChShart {
+  width: 316px;
+  height: 444px;
+  margin: 0px 112px 0px 0px;
+}
+.sbgChShartsm2 {
+  width: 316px;
+  height: 422px;
+  margin: 0px 26px 0px 0px;
+}
+.s {
+  width: 52.1px;
+  height: 55px;
+  position: relative;
+}
+.flexRow3 {
+  height: 68px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px 110px 0px 152px;
+  margin: 0px 0px 19px 0px;
+}
+.flexColumn1 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px 22px 0px 0px;
+}
+.flexRow7 {
+  height: 23px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 0px 126px 0px 152px;
+  margin: 0px 0px 168px 0px;
+}
+.flexRow8 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 0px 138px 0px 0px;
+}
+.flexRow9 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-self: flex-start;
+  margin: 0px 144px 0px 0px;
+}
+.text20 {
+  font-size: 16px;
+  font-family: DM Sans;
+  font-weight: 700;
+  color: #ffffff;
+  margin: 0px 166px 0px 0px;
+}
+.component {
+  width: 72px;
+  display: flex;
+  align-self: center;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 11px;
+  align-items: center;
+  margin: 0px 0px 48px 0px;
+}
+.element5 {
+  width: 22px;
+  height: 21px;
+  position: relative;
+  flex-grow: 1;
+}
+.iconfacebook {
+  width: 21px;
+  height: 21px;
+  position: absolute;
+  left: -34px;
+}
+.iconinstagram {
+  width: 22px;
+  height: 21px;
+  position: absolute;
+}
+.iconlinkedin {
+  width: 21px;
+  height: 21px;
+}
+.whiteParagraph {
+  text-align: center;
+  display: flex;
+  font-size: 14px;
+  font-family: League Spartan;
+  font-weight: 300;
+  align-self: center;
+  backdrop-filter: blur(0px);
+  width: 1440px;
+  height: 13px;
+  background-color: rgba(255, 255, 255, 0.35);
+  flex-direction: row;
+  justify-content: center;
+  padding: 14px 0px 15px 0px;
+}
+.image8 {
+  width: 351px;
+  height: 64px;
+  mix-blend-mode: color-burn;
+  position: absolute;
+  top: 471px;
+  left: -9856px;
+}
